@@ -37,10 +37,12 @@ Modify user shells and basic permissions.
 🖥️ Usage
 
 Clone the repository and give execution permission:
-"""
+
 git clone https://github.com/mhmoudjma/AutoSysAdmin.git
+
 cd AutoSysAdmin
-chmod +x AutoSy
-sAdmin
+
+chmod +x AutoSysAdmin
+
 ./AutoSysAdmin
-"""
+
